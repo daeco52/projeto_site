@@ -1,0 +1,96 @@
+body {
+    cursor: pointer;
+    font-family: 'Roboto';
+}
+
+.bg-primary-color {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.bg-CinzaClaro {
+    background-color: rgb(232, 248, 232);
+}
+
+.bg-AzulEscuro {
+    background-color: rgb(153, 153, 253);
+}
+
+.navbar {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    background-color: #faf2e7;
+}
+
+.nav-link {
+    color: rgb(0, 0, 0);
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+}
+
+.nav-link:hover {
+    color: rgb(250, 4, 4);
+    text-transform: 1s;
+}
+
+.navbar-brand img {
+    width: 80px;
+}
+
+.navbar-nav {
+    justify-content: center;
+    display: flex;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.navbar-brand span {
+    font-size: 1.5em;
+    margin-left: 0.5em;
+    color: rgb(247, 181, 238);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+    letter-spacing: 1px;
+}
+
+.p1 {
+    font-size: 17px;
+}
+
+form {
+    width: 60%;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+
+}
+
+
+
+.page-header img {
+    margin: 0;
+    padding: 0;
+
+}
+
+.page-header h1 {
+    margin: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
